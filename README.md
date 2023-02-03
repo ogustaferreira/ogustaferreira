@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gustavo Ferreira.
-Atualmente estou estudando as seguintes linguagens:
+Atualmente estou estudando:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
